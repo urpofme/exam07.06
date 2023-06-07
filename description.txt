@@ -1,2 +1,2 @@
-для создание образа докера:docker build -t exam_02_07_06_2023 ./hallServer/
+для создание образа докера:docker build -t exam_02_07_06_2023/hallServer/
 для запуска docker run -p 33333:33333 -d exam_02_07_06_2023
